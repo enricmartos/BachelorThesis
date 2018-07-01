@@ -18,5 +18,5 @@ Thus, supervised learning algorithms, including deep learning approaches, have b
 
 # Code
 
-- OverallSentimentPrediction: This script lets the user test several precomputed classifiers among the three different classification tasks. First of all, the user chooses the classification task along with the desired classifier. Then, the program expects a text review that will be accordingly classified. Finally, the user can check if the predicted results is the correct one or not. 
+- OverallSentimentPrediction: This script lets the user test several precomputed classifiers in the three different classification tasks. First of all, the user chooses the classification task along with the desired classifier. Then, the program expects a text review that will be accordingly classified. Finally, the user can check if the predicted results is the correct one or not. 
 
