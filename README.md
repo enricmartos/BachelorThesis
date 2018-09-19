@@ -50,5 +50,5 @@ However, the most important script here is "OverallSentimentPrediction":
 OverallSentimentPrediction: This script lets the user test several precomputed classifiers 
 in the three different classification tasks. First of all, the user chooses the classification 
 task along with the desired classifier. Then, the program expects a text review that will be accordingly classified.
-Finally, the user can check if the predicted results is the correct one or not. The pickled variables inside pickled_vars folder can be downloaded through this Google Drive link: https://drive.google.com/open?id=1piyNFP1duTmsMK5GnyyuUHMT47nXK6cs
+Finally, the user can check if the predicted results is the correct one or not. The pickled variables inside pickled_vars folder can be downloaded through this Google Drive link: https://drive.google.com/file/d/1_MBrMkOGYufBgYR7hbErjLDS4qGduHxB/view. This second link (https://drive.google.com/drive/folders/1AcRAppxsPzAeFOCV3ZwWl7ylms2soMw6?usp=sharing) also includes the final report of the project, a summarized presentation, and a video demo that shows the main features of the program.
 
