@@ -16,7 +16,7 @@ Thus, supervised learning algorithms, including deep learning approaches, have b
 
 3. Topic categorization of a review:  Its goal is to determine the topic, i.e. the product type, of unseen reviews.
 
-# Code
+# Usage
 
 The structure of the code is organized as follows:
 
@@ -50,5 +50,11 @@ However, the most important script here is "OverallSentimentPrediction":
 OverallSentimentPrediction: This script lets the user test several precomputed classifiers 
 in the three different classification tasks. First of all, the user chooses the classification 
 task along with the desired classifier. Then, the program expects a text review that will be accordingly classified.
-Finally, the user can check if the predicted results is the correct one or not. The pickled variables inside pickled_vars folder can be downloaded through this Google Drive link: https://drive.google.com/file/d/1_MBrMkOGYufBgYR7hbErjLDS4qGduHxB/view. This second link (https://drive.google.com/drive/folders/1AcRAppxsPzAeFOCV3ZwWl7ylms2soMw6?usp=sharing) also includes the final report of the project, a summarized presentation, and a video demo that shows the main features of the program.
+Finally, the user can check if the predicted results is the correct one or not. The pickled variables inside pickled_vars folder can be downloaded through [this](https://drive.google.com/file/d/1_MBrMkOGYufBgYR7hbErjLDS4qGduHxB/view) Google Drive folder. [This](https://drive.google.com/drive/folders/1AcRAppxsPzAeFOCV3ZwWl7ylms2soMw6?usp=sharing) second link also includes the final report of the project, and a summarized presentation. Finally, the video demo below shows the main features of the program.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hO7awUAFZyU
+" target="_blank"><img src="https://github.com/enricmartos/BachelorThesis/blob/master/NonDeepLearningApproaches/thumbnail3.PNG" 
+width="600" height="350" border="10"/></a>
+
+
 
