@@ -1,8 +1,6 @@
 # BachelorThesis - Sentiment analysis on Amazon product reviews
 
-This repository contains the main Python scripts of my Bachelor Thesis (Sentiment analysis on Amazon product reviews).
-
-# Abstract
+# Summary
 
 Text mining has proved to be a crucial tool for companies in order to know their customers opinion. By deriving high-quality information from large volumes of text, it is possible to understand how the market preferences evolve beyond sales statistics. For this reason, the goal of this bachelor thesis is to perform an accurate sentiment analysis on Amazon product reviews.
 Three different review datasets (ebooks, toys and video games) configure the starting point to extract and quantify affective states by applying natural language processing techniques. The aforementioned datasets are provided by Kaggle, a collaborative data science platform. 
@@ -26,19 +24,19 @@ The structure of the code is organized as follows:
 
 - Non deep learning approaches folder:
 
--- Data Visualization.py
+1. Data Visualization.py
 
--- OverallPrediction.py
+2. OverallPrediction.py
 
--- HelpfulnessPrediction.py
+3. HelpfulnessPrediction.py
 
 -- TopicPrediction.py
 
 Deep learning approaches folder:
 
--- MLP folder: Overall, Helpfulness and Topic Prediction Python files based on MLP
+1. MLP folder: Overall, Helpfulness and Topic Prediction Python files based on MLP
 
--- CNN folder: Overall, Helpfulness and Topic Prediction Python files based on MLP
+2. CNN folder: Overall, Helpfulness and Topic Prediction Python files based on MLP
 
 Please note that most of this code is not still ready to be executed in a friendly way,
 and it may output errors depending on your set up. However, it contains all the
