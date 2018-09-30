@@ -1,6 +1,6 @@
 # BachelorThesis - Sentiment analysis on Amazon product reviews
 
-This repository will contain the main Python scripts of my Bachelor Thesis (Sentiment analysis on Amazon product reviews).
+This repository contains the main Python scripts of my Bachelor Thesis (Sentiment analysis on Amazon product reviews).
 
 # Abstract
 
@@ -53,7 +53,7 @@ task along with the desired classifier. Then, the program expects a text review 
 Finally, the user can check if the predicted results is the correct one or not. The pickled variables inside pickled_vars folder can be downloaded through [this](https://drive.google.com/file/d/1_MBrMkOGYufBgYR7hbErjLDS4qGduHxB/view) Google Drive folder. [This](https://drive.google.com/drive/folders/1AcRAppxsPzAeFOCV3ZwWl7ylms2soMw6?usp=sharing) second link also includes the final report of the project, and a summarized presentation. Finally, the video demo below shows the main features of the program.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hO7awUAFZyU
-" target="_blank"><img src="https://github.com/enricmartos/BachelorThesis/blob/master/NonDeepLearningApproaches/thumbnail3.PNG" 
+" target="_blank"><img src="https://github.com/enricmartos/BachelorThesis/blob/master/NonDeepLearningApproaches/Thumbnail_Demo.png" 
 width="600" height="350" border="10"/></a>
 
 
